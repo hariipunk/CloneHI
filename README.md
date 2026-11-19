@@ -8,6 +8,8 @@ Unduh APK rilis terbaru dari daftar file di repo ini (atau dari [Releases](../..
 
 APK rilis ditandatangani dengan keystore resmi CloneHI.
 
+Dengan mengunduh dan menggunakan CloneHI, kamu menyetujui [Perjanjian Penggunaan](AGREEMENT.md).
+
 ## Donasi
 
 - Ko-fi (Internasional): https://ko-fi.com/hariipunk
